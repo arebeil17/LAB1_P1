@@ -1,0 +1,10 @@
+*.hex
+/build
+*.d
+*.o
+*.elf
+*.map
+*.mk
+*.xml
+*.properties
+*.bash
